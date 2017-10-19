@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Arrow-Down.png</file>
+        <file>icons/Arrow-Left.png</file>
+        <file>icons/download.png</file>
+        <file>icons/next.png</file>
+        <file>icons/Save.png</file>
+        <file>icons/Symbol-Delete.png</file>
+        <file>icons/Delete1.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/help.png</file>
+        <file>icons/new_mail.png</file>
+        <file>icons/Rip Icon 7.png</file>
+        <file>icons/Rip Icon 67.png</file>
+        <file>icons/help1.png</file>
+        <file>icons/folder_search.png</file>
+        <file>icons/Get Info.png</file>
+        <file>icons/info.png</file>
+        <file>icons/info1.png</file>
+        <file>icons/info2.png</file>
+        <file>icons/info3.png</file>
+    </qresource>
+</RCC>
